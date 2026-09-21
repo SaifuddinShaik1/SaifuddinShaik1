@@ -87,4 +87,4 @@ St. Johns College Of Engineering & Technology
 
 **Actively seeking Data Science / Machine Learning opportunities**
 
-[LinkedIn]((https://www.linkedin.com/in/saifuddinshaik1/)) · [GitHub](https://github.com/YOUR_USERNAME) · [Email](mailto:shaiksaifuddin275@gmail.com)
+[LinkedIn]((https://www.linkedin.com/in/saifuddinshaik1/)) · [GitHub]((https://github.com/SaifuddinShaik1)) · [Email](mailto:shaiksaifuddin275@gmail.com)
