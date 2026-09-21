@@ -1,4 +1,4 @@
-# Hi, I'm [Saifuddin Shaik] 👋
+# Hi, I'm Saifuddin Shaik👋
 
 **Data Science Student** | Aspiring Data Scientist
 
@@ -29,3 +29,62 @@ Currently seeking Data Science / Machine Learning internship opportunities.
 | **Tools**                 | Jupyter Notebook, Git |
 
 ## Typical Workflow
+
+```
+Raw Data
+ │
+ ▼
+Data Cleaning (Python / SQL)
+ │
+ ├── Handle Missing Values
+ ├── Remove Duplicates
+ └── Standardize Formats
+ │
+ ▼
+Exploratory Data Analysis
+ │
+ ▼
+Model Building (ML / DL / NLP)
+ │
+ ▼
+Evaluation & Dashboard (Tableau)
+      │
+      ▼
+   Insights & Recommendations
+```
+
+## Featured Projects
+
+### [Project 1 Name]
+One-line description of the problem you solved.
+- Cleaned and preprocessed data using Python (Pandas, NumPy)
+- Built a [ML/DL model] achieving [metric, e.g. 0.87 ROC-AUC]
+- Visualized results with Tableau
+
+### [Project 2 Name — e.g. Sentiment Analysis on Reviews]
+One-line description.
+- Preprocessed text data (tokenization, stopword removal, embeddings)
+- Trained an NLP model ([e.g. LSTM / BERT fine-tune]) for classification
+- Reported accuracy and key findings
+
+### [Project 3 Name]
+One-line description.
+- Wrote SQL queries to extract and aggregate data
+- [Key technique or library used]
+- [Result or outcome]
+
+## Key Concepts
+
+`Data Cleaning` `EDA` `Machine Learning` `Deep Learning` `NLP` `SQL` `Tableau` `Model Evaluation`
+
+## Education
+
+**Bachelor Of Technology**
+St. Johns College Of Engineering & Technology
+7.1 | 2022 – 2026
+
+---
+
+**Actively seeking Data Science / Machine Learning opportunities**
+
+[LinkedIn](link) · [GitHub](https://github.com/YOUR_USERNAME) · [Email](mailto:your.email@gmail.com)
