@@ -4,9 +4,9 @@
 
 Python · Machine Learning · Deep Learning · NLP · SQL · Tableau
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/saifuddinshaik1/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]((https://github.com/SaifuddinShaik1))
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaiksaifuddin275@gmail.com)
 
 ## About Me
 
@@ -87,4 +87,4 @@ St. Johns College Of Engineering & Technology
 
 **Actively seeking Data Science / Machine Learning opportunities**
 
-[LinkedIn](link) · [GitHub](https://github.com/YOUR_USERNAME) · [Email](mailto:your.email@gmail.com)
+[LinkedIn]((https://www.linkedin.com/in/saifuddinshaik1/)) · [GitHub](https://github.com/YOUR_USERNAME) · [Email](mailto:shaiksaifuddin275@gmail.com)
