@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Saifuddin Shaik] 👋
 
 **Data Science Student** | Aspiring Data Scientist
 
