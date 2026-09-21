@@ -1,6 +1,6 @@
 # Hi, I'm Saifuddin Shaik👋
 
-**Data Science Student** | Aspiring Data Scientist
+**Data Scientist** | Aspiring Data Scientist
 
 Python · Machine Learning · Deep Learning · NLP · SQL · Tableau
 
